@@ -1,0 +1,15 @@
+D:\CodeTest\表格控件\第二种图表控件\bin\Debug\第二种图表控件.exe.config
+D:\CodeTest\表格控件\第二种图表控件\bin\Debug\第二种图表控件.exe
+D:\CodeTest\表格控件\第二种图表控件\bin\Debug\第二种图表控件.pdb
+D:\CodeTest\表格控件\第二种图表控件\obj\Debug\第二种图表控件.csprojAssemblyReference.cache
+D:\CodeTest\表格控件\第二种图表控件\obj\Debug\MainWindow.g.cs
+D:\CodeTest\表格控件\第二种图表控件\obj\Debug\App.g.cs
+D:\CodeTest\表格控件\第二种图表控件\obj\Debug\第二种图表控件_MarkupCompile.cache
+D:\CodeTest\表格控件\第二种图表控件\obj\Debug\第二种图表控件_MarkupCompile.lref
+D:\CodeTest\表格控件\第二种图表控件\obj\Debug\MainWindow.baml
+D:\CodeTest\表格控件\第二种图表控件\obj\Debug\第二种图表控件.g.resources
+D:\CodeTest\表格控件\第二种图表控件\obj\Debug\第二种图表控件.Properties.Resources.resources
+D:\CodeTest\表格控件\第二种图表控件\obj\Debug\第二种图表控件.csproj.GenerateResource.cache
+D:\CodeTest\表格控件\第二种图表控件\obj\Debug\第二种图表控件.csproj.CoreCompileInputs.cache
+D:\CodeTest\表格控件\第二种图表控件\obj\Debug\第二种图表控件.exe
+D:\CodeTest\表格控件\第二种图表控件\obj\Debug\第二种图表控件.pdb
